@@ -1,5 +1,5 @@
 context:
-  version: "4.3.4"
+  version: "4.4.0"
 
 package:
   name: servestatic
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/s/servestatic/servestatic-${{ version }}.tar.gz
-    sha256: fef61ea48b708f1e3a7f7fd29b3e70ad563486933ba1df97018f335e1abe9997
+    sha256: 1888da43de2d5e46960404b0ff718992053b45ee875763c2a905809d7d0b4380
 
 build:
   number: 0
